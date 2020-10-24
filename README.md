@@ -30,6 +30,6 @@ Para ejecutar ./lexer fuenteConError.txt
 
 Para ver el resultado con error:
 
-Tarea2: Se imprimira en pantalla un mensaje NO es sintacticamente correcto
+Tarea2: Se imprimira en pantalla un mensaje NO ES sintacticamente correcto
 
 Tarea3: Abrir los archivos fuenteConError.txt y output.xml (recien generado) para ver la traduccion
