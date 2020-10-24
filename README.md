@@ -6,6 +6,8 @@ Osmar Alberto Romero Mancuello
 
 Adan Ulises Piris Medina
 
+*
+
 Para probar:
 
 Para compilar gcc anLexico.c tablaSimbolos.c parser.c -o lexer
@@ -17,6 +19,8 @@ Para ver el resultado:
 Tarea2: Se imprimira en pantalla un mensaje si ES sintacticamente correcto o si NO ES sintacticamente correcto
 
 Tarea3: Abrir los archivos fuente.txt y output.xml (recien generado) para ver la traduccion
+
+*
 
 Para probar la fuente con error:
 
