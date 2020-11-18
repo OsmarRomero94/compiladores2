@@ -1,4 +1,5 @@
-# Compiladores y Lenguajes de Bajo Nivel Tarea 2 y Tarea 3
+# Compiladores y Lenguajes de Bajo Nivel 
+# Tarea 2 y Tarea 3
 
 Alumnos:
 
@@ -18,7 +19,7 @@ Para ver el resultado:
 
 Tarea2: Se imprimira en pantalla un mensaje si ES sintacticamente correcto o si NO ES sintacticamente correcto
 
-Tarea3: Abrir los archivos fuente.txt y output.xml (recien generado) para ver la traduccion
+Tarea3: Abrir los archivos fuente.txt y output.xml (recien generado) con gedit para ver la traduccion
 
 *
 
@@ -32,4 +33,4 @@ Para ver el resultado con error:
 
 Tarea2: Se imprimira en pantalla un mensaje NO ES sintacticamente correcto
 
-Tarea3: Abrir los archivos fuenteConError.txt y output.xml (recien generado) para ver la traduccion
+Tarea3: Abrir los archivos fuenteConError.txt y output.xml (recien generado) con gedit para ver la traduccion
